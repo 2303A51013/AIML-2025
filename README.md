@@ -19,6 +19,6 @@
 5. [Lab 05](https://github.com/2303A51013/AIML-2025/blob/main/AIML_LAB05.ipynb);
 6. [Lab 06](https://github.com/2303A51013/AIML-2025/blob/main/AIML_LAB06.ipynb);
 7. [Lab 07](https://github.com/2303A51013/AIML-2025/blob/main/AIML_LAB07.ipynb);
-8. [Lab 08]();
+8. [Lab 08](https://github.com/2303A51013/AIML-2025/blob/main/AIML_LAB08.ipynb);
 9. [Lab 09]();
 10. [Lab 10]();
